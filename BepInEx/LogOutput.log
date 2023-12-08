@@ -1,0 +1,422 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (17/11/2023 22:29:30)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 12 plugins to load
+[Info   :   BepInEx] Loading [BiggerLobby 2.0.0]
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Created directory at D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.4.0]
+[Info   :ReservedItemSlotCore] BindingConfigs
+[Info   :ReservedItemSlotCore] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 1.4.0]
+[Info   :ReservedWalkieSlot] BindingConfigs
+[Info   :ReservedWalkieSlot] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [FreddyBracken 1.0.2]
+[Info   :FreddyBracken] Plugin FreddyBracken is loaded!
+[Info   :   BepInEx] Loading [LC_API 1.0.0]
+[Info   :    LC_API] LC-API Starting up..
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 0.1.0]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [MoreItems 1.0.0]
+[Info   : MoreItems] Plugin MoreItems is loaded!
+[Info   :   BepInEx] Loading [MetalPipeItems 1.0.0.0]
+[Info   :SteamBlizzard.MetalPipeItems] MetalPipeItems loading...
+[Info   :SteamBlizzard.MetalPipeItems] Loaded and patches applied.
+[Info   :   BepInEx] Loading [Late Company 1.0.4]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [More Suits 1.3.2]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got 1 AssetBundles to load!
+[Message:    LC_API] Got asset for load: assets/diagetic.mixer
+[Message:    LC_API] Loaded asset: Diagetic
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] server pre-setup success
+[Info   :Custom Boombox Music] Preparing to load AudioClips...
+[Info   :Custom Boombox Music] Loading D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Chug_Jug_With_You_-_Parody_of_American_Boy_Number_One_Victory_Royale.mp3!
+[Info   :Custom Boombox Music] Loading D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Goomba_6ix9ine.mp3!
+[Info   :Custom Boombox Music] Loading D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Jay-Z__Kanye_West_-_Niggas_in_Paris_-_Watch_the_Throne.mp3!
+[Info   :Custom Boombox Music] Loading D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\JHC-_RAPPIN_FO_JEEEEEEESUS.mp3!
+[Info   :Custom Boombox Music] Loading D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\NEW_Kanye_Song_-_Ye24_Campaign_Song_feat_Hitler.mp3!
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] Adding 1 Reserved Item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Walkie-talkie]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Finished adding 1 Reserved Item slots in the inventory HUD.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :Custom Boombox Music] Loaded D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Chug_Jug_With_You_-_Parody_of_American_Boy_Number_One_Victory_Royale.mp3
+[Info   :Custom Boombox Music] Loaded D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Goomba_6ix9ine.mp3
+[Info   :Custom Boombox Music] Loaded D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\Jay-Z__Kanye_West_-_Niggas_in_Paris_-_Watch_the_Throne.mp3
+[Info   :Custom Boombox Music] Loaded D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\JHC-_RAPPIN_FO_JEEEEEEESUS.mp3
+[Info   :Custom Boombox Music] Loaded D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\Custom Songs\Boombox Music\NEW_Kanye_Song_-_Ye24_Campaign_Song_feat_Hitler.mp3
+[Info   :Custom Boombox Music] Applying clips!
+[Info   :Custom Boombox Music] Total Clip Count: 5
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <0d035f3e82c441aaa8a0592016dc8fb1>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <0d035f3e82c441aaa8a0592016dc8fb1>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Message:    LC_API] server pre-setup success
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] Adding 1 Reserved Item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Walkie-talkie]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Finished adding 1 Reserved Item slots in the inventory HUD.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <0d035f3e82c441aaa8a0592016dc8fb1>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Error  :  HarmonyX] Error while running static void LateCompany.Patches.ConnectionApproval_Patch::Postfix(Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response). Error: System.NullReferenceException: Object reference not set to an instance of an object
+  at LateCompany.Patches.ConnectionApproval_Patch.Postfix (Unity.Netcode.NetworkManager+ConnectionApprovalRequest request, Unity.Netcode.NetworkManager+ConnectionApprovalResponse response) [0x00019] in <0d035f3e82c441aaa8a0592016dc8fb1>:0 
+  at (wrapper dynamic-method) GameNetworkManager.DMD<GameNetworkManager::ConnectionApproval>(GameNetworkManager,Unity.Netcode.NetworkManager/ConnectionApprovalRequest,Unity.Netcode.NetworkManager/ConnectionApprovalResponse)
+[Message:    LC_API] server pre-setup success
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] Adding 1 Reserved Item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Walkie-talkie]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Finished adding 1 Reserved Item slots in the inventory HUD.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :SteamBlizzard.MetalPipeItems] Patching audio...
+[Message:SteamBlizzard.MetalPipeItems] Accessing...
+[Message:SteamBlizzard.MetalPipeItems] Accessed.
+[Error  :SteamBlizzard.MetalPipeItems] Failed to access audio clip.
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
+[Info   :ReservedItemSlotCore] VanillaHotbarSize: 4
+[Info   :ReservedItemSlotCore] UnreservedHotbarSize: 4
+[Info   :ReservedItemSlotCore] ReservedHotbarSize: 1
